@@ -1,0 +1,50 @@
+[
+   {
+      "id": 1,
+      "name": "Macarrones",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/restaurant-app-b7df6.appspot.com/o/macarrones.jpg?alt=media&token=4089647c-2539-4aa9-bc5b-660c961e3a59",
+      "description": "Estos son unos deliciosos macarrones"
+   },
+   {
+      "id": 2,
+      "name": "Arroz con verduras",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/restaurant-app-b7df6.appspot.com/o/arroz.jpg?alt=media&token=2631f59f-c76c-4aa8-acfc-d926d82ad9f5",
+      "description": "Delicioso arroz con verduras a muy bajo costo"
+   },
+   {
+      "id": 3,
+      "name": "Carne Frita",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/restaurant-app-b7df6.appspot.com/o/caren-frita.jpg?alt=media&token=ee66f725-5336-4406-a519-a88a61b2f776",
+      "description": "Deliciosa carne frita para chuparse los dedos"
+   },
+   {
+      "id": 4,
+      "name": "Ensalada de vegetales",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/restaurant-app-b7df6.appspot.com/o/ensalada.jpg?alt=media&token=cb1b399d-417b-490f-bd8b-64e105357354",
+      "description": "Una deliciosa ensalada de vegetales"
+   },
+   {
+      "id": 5,
+      "name": "Ensalada rusa",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/restaurant-app-b7df6.appspot.com/o/fideos.jpg?alt=media&token=9bb5441e-e830-4f06-adcb-98bfee9cdf3e",
+      "description": "Ensalada rusa muy rica alta en proteinas"
+   },
+   {
+      "id": 6,
+      "name": "Pancakes",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/restaurant-app-b7df6.appspot.com/o/pancakes.jpg?alt=media&token=6eb5810f-2c88-4982-ac16-dbed674c5cc9",
+      "description": "Los pancakes son un buen postre para culminar"
+   },
+   {
+      "id": 7,
+      "name": "Pizza con champiñones",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/restaurant-app-b7df6.appspot.com/o/pizza.jpg?alt=media&token=0051af41-4123-4d76-b882-341d81fad5e1",
+      "description": "Comete estos ricos champiñones"
+   },
+   {
+      "id": 8,
+      "name": "Tacos con lima",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/restaurant-app-b7df6.appspot.com/o/tacos-lima.jpg?alt=media&token=38d477c9-2d0f-4054-be31-ac9b8dd901f4",
+      "description": "Tacos con lima a tu gusto"
+   }
+]
